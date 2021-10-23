@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Register Users" tests="4" skipped="4" failures="0" errors="0" timestamp="2021-10-23T12:35:22" hostname="DESKTOP-PIL8PIG" time="3.913">
+  <properties/>
+  <testcase name="EMPTY_NAME" classname="Register Users" time="0.529">
+    <skipped/>
+  </testcase>
+  <testcase name="EMPTY_NAME" classname="Register Users" time="0.251">
+    <skipped/>
+  </testcase>
+  <testcase name="EMPTY_NAME" classname="Register Users" time="0.445">
+    <skipped/>
+  </testcase>
+  <testcase name="EMPTY_NAME" classname="Register Users" time="1.979">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@44e946c6
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5c653448
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4911abd
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: :Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: 
+---------------------------------------------------------------------------------
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@399c3126
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: :Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: 
+---------------------------------------------------------------------------------
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@126ec21
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: :Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |, Given operating systems validation
+| strSelect1 | strSelect2 | strSelect3 | strSelect4 | strSelect5 | strSelect6 |
+| TuSelect1 | TuSelect2 | TuSelect3 | TuSelect4 | TuSelect5 | TuSelect6 |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |, Given operating systems validation
+| strSelect1 | strSelect2 | strSelect3 | strSelect4 | strSelect5 | strSelect6 |
+| TuSelect1 | TuSelect2 | TuSelect3 | TuSelect4 | TuSelect5 | TuSelect6 |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |, Given operating systems validation
+| strSelect1 | strSelect2 | strSelect3 | strSelect4 | strSelect5 | strSelect6 |
+| TuSelect1 | TuSelect2 | TuSelect3 | TuSelect4 | TuSelect5 | TuSelect6 |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: 
+---------------------------------------------------------------------------------
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5fc38cd7
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: :Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |, Given operating systems validation
+| strSelect1 | strSelect2 | strSelect3 | strSelect4 | strSelect5 | strSelect6 |
+| TuSelect1 | TuSelect2 | TuSelect3 | TuSelect4 | TuSelect5 | TuSelect6 |, Given operating systems validation
+| strPassword | strConfirmPassword | strCheck1 | strCheck2 | strCheck3 |
+| TuPassword | TuConfirmPassword | TuCheck1 | TuCheck2 | TuCheck3 |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |, Given operating systems validation
+| strSelect1 | strSelect2 | strSelect3 | strSelect4 | strSelect5 | strSelect6 |
+| TuSelect1 | TuSelect2 | TuSelect3 | TuSelect4 | TuSelect5 | TuSelect6 |, Given operating systems validation
+| strPassword | strConfirmPassword | strCheck1 | strCheck2 | strCheck3 |
+| TuPassword | TuConfirmPassword | TuCheck1 | TuCheck2 | TuCheck3 |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [:Given Harold automation for personal user information
+| strFirsName | strLastName | strEmail | strBirthMonth | strBirthday | strBirthYear | strLengues |
+| TuFirsname | TuLastName | TuEmail | TuBirthMonth | TuBirthday | TuBirthYear | tuLenguest |, When when the user completes all the fields
+| strValidator |
+| Metodos utest |, Then proceed to the next step to continue
+| strGo |
+| Metodos utest |, Given automation user location
+| strCity | strZip | strCountry |
+| TuCity | TuZip | TuCountry |, Given operating systems validation
+| strSelect1 | strSelect2 | strSelect3 | strSelect4 | strSelect5 | strSelect6 |
+| TuSelect1 | TuSelect2 | TuSelect3 | TuSelect4 | TuSelect5 | TuSelect6 |, Given operating systems validation
+| strPassword | strConfirmPassword | strCheck1 | strCheck2 | strCheck3 |
+| TuPassword | TuConfirmPassword | TuCheck1 | TuCheck2 | TuCheck3 |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: 
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
